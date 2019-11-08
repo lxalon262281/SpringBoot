@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo" />
+        <module name="eurekaservice" />
+        <module name="sc-contract" />
+        <module name="sc-libcontractapi" />
+        <module name="spring-boot-4-Scheduled" />
+        <module name="springbatchdemo" />
+        <module name="SpringBatchLearning" />
+        <module name="SpringBatchTest" />
+        <module name="springboot-Quartz" />
+        <module name="springquartz" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
+      <module name="eurekaservice" target="1.8" />
+      <module name="sc-contract" target="1.8" />
+      <module name="sc-contract-parent" target="1.8" />
+      <module name="sc-libcontractapi" target="1.8" />
+      <module name="spring-batch-example" target="1.6" />
+      <module name="spring-boot-4-Scheduled" target="1.8" />
+      <module name="springbatchdemo" target="1.8" />
+      <module name="SpringBatchLearning" target="1.8" />
+      <module name="SpringBatchTest" target="1.8" />
+      <module name="springboot-Quartz" target="1.8" />
+      <module name="springquartz" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

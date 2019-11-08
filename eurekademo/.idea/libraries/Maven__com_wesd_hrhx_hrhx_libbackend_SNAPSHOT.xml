@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.wesd.hrhx:hrhx-libbackend:SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wesd/hrhx/hrhx-libbackend/SNAPSHOT/hrhx-libbackend-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wesd/hrhx/hrhx-libbackend/SNAPSHOT/hrhx-libbackend-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wesd/hrhx/hrhx-libbackend/SNAPSHOT/hrhx-libbackend-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

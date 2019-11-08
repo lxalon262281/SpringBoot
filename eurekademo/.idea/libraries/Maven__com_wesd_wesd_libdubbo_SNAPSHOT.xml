@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.wesd:wesd-libdubbo:SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wesd/wesd-libdubbo/SNAPSHOT/wesd-libdubbo-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wesd/wesd-libdubbo/SNAPSHOT/wesd-libdubbo-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wesd/wesd-libdubbo/SNAPSHOT/wesd-libdubbo-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

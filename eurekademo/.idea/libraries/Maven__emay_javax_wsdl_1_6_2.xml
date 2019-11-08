@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: emay:javax-wsdl:1.6.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/emay/javax-wsdl/1.6.2/javax-wsdl-1.6.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/emay/javax-wsdl/1.6.2/javax-wsdl-1.6.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/emay/javax-wsdl/1.6.2/javax-wsdl-1.6.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

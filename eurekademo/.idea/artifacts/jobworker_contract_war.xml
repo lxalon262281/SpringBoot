@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jobworker-contract:war">
+    <output-path>/cashbusWorkspace/jobworker-contract/target</output-path>
+    <root id="archive" name="jobworker-contract-SNAPSHOT.war">
+      <element id="artifact" artifact-name="jobworker-contract:war exploded" />
+    </root>
+  </artifact>
+</component>

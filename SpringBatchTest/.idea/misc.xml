@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file:///cashbusWorkspace/Mars/sc-contract/sc-contract" />
+    <file type="web" url="file://$PROJECT_DIR$/../../eurekaservice" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../../springbatchdemo/pom.xml" />
+        <option value="$USER_HOME$/Downloads/osjp-spring-batch-example/pom.xml" />
+        <option value="$PROJECT_DIR$/../../SpringBatch/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-Quartz/pom.xml" />
+        <option value="$PROJECT_DIR$/../../springquartz/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../springboot笔记/sprigboot实例/spring-boot/spring-boot-4-Scheduled/pom.xml" />
+        <option value="$PROJECT_DIR$/../../eurekaservice/pom.xml" />
+        <option value="/cashbusWorkspace/Mars/sc-contract/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../projectCode/未命名文件夹/demo/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+</project>

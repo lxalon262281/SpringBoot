@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: CashBus:CashBus-libAthenaWorkflow:SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/CashBus/CashBus-libAthenaWorkflow/SNAPSHOT/CashBus-libAthenaWorkflow-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/CashBus/CashBus-libAthenaWorkflow/SNAPSHOT/CashBus-libAthenaWorkflow-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/CashBus/CashBus-libAthenaWorkflow/SNAPSHOT/CashBus-libAthenaWorkflow-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

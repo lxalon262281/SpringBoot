@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../SpringBatch/SpringBatchLearning.iml" filepath="$PROJECT_DIR$/../../SpringBatch/SpringBatchLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBatchTest.iml" filepath="$PROJECT_DIR$/SpringBatchTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../projectCode/未命名文件夹/demo/demo.iml" filepath="$PROJECT_DIR$/../../../projectCode/未命名文件夹/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../eurekaservice/eurekaservice.iml" filepath="$PROJECT_DIR$/../../eurekaservice/eurekaservice.iml" />
+      <module fileurl="file:///cashbusWorkspace/Mars/sc-contract/sc-contract/sc-contract.iml" filepath="/cashbusWorkspace/Mars/sc-contract/sc-contract/sc-contract.iml" />
+      <module fileurl="file:///cashbusWorkspace/Mars/sc-contract/sc-contract-parent.iml" filepath="/cashbusWorkspace/Mars/sc-contract/sc-contract-parent.iml" />
+      <module fileurl="file:///cashbusWorkspace/Mars/sc-contract/sc-libcontractapi/sc-libcontractapi.iml" filepath="/cashbusWorkspace/Mars/sc-contract/sc-libcontractapi/sc-libcontractapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../springboot笔记/sprigboot实例/spring-boot/spring-boot-4-Scheduled/spring-boot-4-Scheduled.iml" filepath="$PROJECT_DIR$/../../../springboot笔记/sprigboot实例/spring-boot/spring-boot-4-Scheduled/spring-boot-4-Scheduled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../springbatchdemo/springbatchdemo.iml" filepath="$PROJECT_DIR$/../../springbatchdemo/springbatchdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot-Quartz/springboot-Quartz.iml" filepath="$PROJECT_DIR$/../springboot-Quartz/springboot-Quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../springquartz/springquartz.iml" filepath="$PROJECT_DIR$/../../springquartz/springquartz.iml" />
+    </modules>
+  </component>
+</project>

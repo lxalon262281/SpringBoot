@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sc-contract:war">
+    <output-path>/cashbusWorkspace/Mars/sc-contract/sc-contract/target</output-path>
+    <root id="archive" name="sc-contract-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="sc-contract:war exploded" />
+    </root>
+  </artifact>
+</component>

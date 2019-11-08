@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="api-gateway" />
+        <module name="api-gateway-dynamic-filter" />
+        <module name="api-gateway-dynamic-route" />
+        <module name="api-gateway-exception" />
+        <module name="eureka-client" />
+        <module name="eurekademo" />
+        <module name="eurekaservice" />
+        <module name="feign-consumer" />
+        <module name="hello-service" />
+        <module name="hello-service-api" />
+        <module name="hystrix-dashboard" />
+        <module name="jobworker-contract" />
+        <module name="microservice-simple-provider-user" />
+        <module name="sc-contract" />
+        <module name="sc-libcontractapi" />
+        <module name="sc-libloanapi" />
+        <module name="sc-loan" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api-gateway" target="1.8" />
+      <module name="api-gateway-dynamic-filter" target="1.8" />
+      <module name="api-gateway-dynamic-route" target="1.8" />
+      <module name="api-gateway-exception" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="config-server-eureka" target="1.8" />
+      <module name="eureka-client" target="1.8" />
+      <module name="eurekademo" target="1.8" />
+      <module name="eurekaservice" target="1.8" />
+      <module name="feign-consumer" target="1.8" />
+      <module name="hello-service" target="1.8" />
+      <module name="hello-service-api" target="1.8" />
+      <module name="hystrix-dashboard" target="1.8" />
+      <module name="jobworker-contract" target="1.8" />
+      <module name="microservice-simple-provider-user" target="1.8" />
+      <module name="sc-contract" target="1.8" />
+      <module name="sc-contract-parent" target="1.8" />
+      <module name="sc-libcontractapi" target="1.8" />
+      <module name="sc-libloanapi" target="1.8" />
+      <module name="sc-loan" target="1.8" />
+      <module name="sc-loan-parent" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

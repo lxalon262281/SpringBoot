@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.wesd:wesd-libjobworker:SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wesd/wesd-libjobworker/SNAPSHOT/wesd-libjobworker-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wesd/wesd-libjobworker/SNAPSHOT/wesd-libjobworker-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wesd/wesd-libjobworker/SNAPSHOT/wesd-libjobworker-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

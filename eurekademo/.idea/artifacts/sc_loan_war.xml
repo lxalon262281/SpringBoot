@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sc-loan:war">
+    <output-path>/cashbusWorkspace/Mars/sc-loan/sc-loan/target</output-path>
+    <root id="archive" name="sc-loan-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="sc-loan:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../SpringBatchTest/SpringBatchTest.iml" filepath="$PROJECT_DIR$/../SpringBatchTest/SpringBatchTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../SpringBatchTest/SpringBatchTest (1).iml" filepath="$PROJECT_DIR$/../../SpringBatchTest/SpringBatchTest (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SpringBatchTest/SpringBatchTest (2).iml" filepath="$PROJECT_DIR$/../SpringBatchTest/SpringBatchTest (2).iml" />
+      <module fileurl="file://$USER_HOME$/CSDN/SpringBootMyBatisSpringSecurity.iml" filepath="$USER_HOME$/CSDN/SpringBootMyBatisSpringSecurity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../BillSpringBatch/bill-spring-batch.iml" filepath="$PROJECT_DIR$/../../BillSpringBatch/bill-spring-batch.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/SourceCode/ch8_2/ch8_2.iml" filepath="$USER_HOME$/Downloads/SourceCode/ch8_2/ch8_2.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/SourceCode/ch8_3/ch8_3.iml" filepath="$USER_HOME$/Downloads/SourceCode/ch8_3/ch8_3.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/SourceCode/ch8_4/ch8_4.iml" filepath="$USER_HOME$/Downloads/SourceCode/ch8_4/ch8_4.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/SourceCode/ch8_5/ch8_5.iml" filepath="$USER_HOME$/Downloads/SourceCode/ch8_5/ch8_5.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/SourceCode/ch8_6_1/ch8_6_1.iml" filepath="$USER_HOME$/Downloads/SourceCode/ch8_6_1/ch8_6_1.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/SourceCode/ch9_1/ch9_1.iml" filepath="$USER_HOME$/Downloads/SourceCode/ch9_1/ch9_1.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/SourceCode/ch9_2/ch9_2.iml" filepath="$USER_HOME$/Downloads/SourceCode/ch9_2/ch9_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jpaTest/jpaTest.iml" filepath="$PROJECT_DIR$/../jpaTest/jpaTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/securityTest.iml" filepath="$PROJECT_DIR$/securityTest.iml" />
+    </modules>
+  </component>
+</project>

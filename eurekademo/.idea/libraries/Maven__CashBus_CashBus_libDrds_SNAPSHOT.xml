@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: CashBus:CashBus-libDrds:SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/CashBus/CashBus-libDrds/SNAPSHOT/CashBus-libDrds-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/CashBus/CashBus-libDrds/SNAPSHOT/CashBus-libDrds-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/CashBus/CashBus-libDrds/SNAPSHOT/CashBus-libDrds-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

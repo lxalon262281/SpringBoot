@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../../microservice-simple/microservice-simple-provider-user" vcs="Git" />
+    <mapping directory="/cashbusWorkspace/Mars/sc-contract" vcs="Git" />
+    <mapping directory="/cashbusWorkspace/Mars/sc-loan" vcs="Git" />
+    <mapping directory="/cashbusWorkspace/jobworker-contract" vcs="Git" />
+  </component>
+</project>

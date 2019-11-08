@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../SpringCloudDemo/SpringCloudBook-master/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/../../SpringCloudDemo/SpringCloudBook-master/api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../SpringCloudDemo/SpringCloudBook-master/api-gateway-dynamic-filter/api-gateway-dynamic-filter.iml" filepath="$PROJECT_DIR$/../../SpringCloudDemo/SpringCloudBook-master/api-gateway-dynamic-filter/api-gateway-dynamic-filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../SpringCloudDemo/SpringCloudBook-master/api-gateway-dynamic-route/api-gateway-dynamic-route.iml" filepath="$PROJECT_DIR$/../../SpringCloudDemo/SpringCloudBook-master/api-gateway-dynamic-route/api-gateway-dynamic-route.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../SpringCloudDemo/SpringCloudBook-master/api-gateway-exception/api-gateway-exception.iml" filepath="$PROJECT_DIR$/../../SpringCloudDemo/SpringCloudBook-master/api-gateway-exception/api-gateway-exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/../../eureka-client/eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekademo.iml" filepath="$PROJECT_DIR$/eurekademo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../eurekaservice/eurekaservice.iml" filepath="$PROJECT_DIR$/../../eurekaservice/eurekaservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../SpringCloudDemo/SpringCloudBook-master/feign-consumer/feign-consumer.iml" filepath="$PROJECT_DIR$/../../SpringCloudDemo/SpringCloudBook-master/feign-consumer/feign-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../SpringCloudDemo/SpringCloudBook-master/hello-service/hello-service.iml" filepath="$PROJECT_DIR$/../../SpringCloudDemo/SpringCloudBook-master/hello-service/hello-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../SpringCloudDemo/SpringCloudBook-master/hello-service-api/hello-service-api.iml" filepath="$PROJECT_DIR$/../../SpringCloudDemo/SpringCloudBook-master/hello-service-api/hello-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../SpringCloudDemo/SpringCloudBook-master/hystrix-dashboard/hystrix-dashboard.iml" filepath="$PROJECT_DIR$/../../SpringCloudDemo/SpringCloudBook-master/hystrix-dashboard/hystrix-dashboard.iml" />
+      <module fileurl="file:///cashbusWorkspace/jobworker-contract/jobworker-contract.iml" filepath="/cashbusWorkspace/jobworker-contract/jobworker-contract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../microservice-simple/microservice-simple-provider-user/microservice-simple-provider-user.iml" filepath="$PROJECT_DIR$/../../microservice-simple/microservice-simple-provider-user/microservice-simple-provider-user.iml" />
+      <module fileurl="file:///cashbusWorkspace/Mars/sc-contract/sc-contract/sc-contract.iml" filepath="/cashbusWorkspace/Mars/sc-contract/sc-contract/sc-contract.iml" />
+      <module fileurl="file:///cashbusWorkspace/Mars/sc-contract/sc-contract-parent.iml" filepath="/cashbusWorkspace/Mars/sc-contract/sc-contract-parent.iml" />
+      <module fileurl="file:///cashbusWorkspace/Mars/sc-contract/sc-libcontractapi/sc-libcontractapi.iml" filepath="/cashbusWorkspace/Mars/sc-contract/sc-libcontractapi/sc-libcontractapi.iml" />
+      <module fileurl="file:///cashbusWorkspace/Mars/sc-loan/sc-libloanapi/sc-libloanapi.iml" filepath="/cashbusWorkspace/Mars/sc-loan/sc-libloanapi/sc-libloanapi.iml" />
+      <module fileurl="file:///cashbusWorkspace/Mars/sc-loan/sc-loan/sc-loan.iml" filepath="/cashbusWorkspace/Mars/sc-loan/sc-loan/sc-loan.iml" />
+      <module fileurl="file:///cashbusWorkspace/Mars/sc-loan/sc-loan-parent.iml" filepath="/cashbusWorkspace/Mars/sc-loan/sc-loan-parent.iml" />
+    </modules>
+  </component>
+</project>

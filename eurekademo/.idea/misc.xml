@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file url="file:///cashbusWorkspace/jobworker-contract/overlays" />
+    <file type="web" url="file:///cashbusWorkspace/jobworker-contract" />
+    <file type="web" url="file:///cashbusWorkspace/Mars/sc-contract/sc-contract" />
+    <file type="web" url="file:///cashbusWorkspace/Mars/sc-loan/sc-loan" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="/cashbusWorkspace/Mars/sc-contract/pom.xml" />
+        <option value="/cashbusWorkspace/jobworker-contract/pom.xml" />
+        <option value="$PROJECT_DIR$/../../microservice-simple/microservice-simple-provider-user/pom.xml" />
+        <option value="$PROJECT_DIR$/../../eurekaservice/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Spring Cloud微服务实战源代码/SpringCloudBook-master/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Spring Cloud微服务实战源代码/SpringCloudBook-master/config-server-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/../../eureka-client/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Spring Cloud微服务实战源代码/SpringCloudBook-master/hello-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Spring Cloud微服务实战源代码/SpringCloudBook-master/hello-service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/../../SpringCloudDemo/SpringCloudBook-master/hello-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../../SpringCloudDemo/SpringCloudBook-master/feign-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/../../SpringCloudDemo/SpringCloudBook-master/hello-service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/../../SpringCloudDemo/SpringCloudBook-master/hystrix-dashboard/pom.xml" />
+        <option value="/cashbusWorkspace/Mars/sc-loan/pom.xml" />
+        <option value="$PROJECT_DIR$/../../SpringCloudDemo/SpringCloudBook-master/api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/../../SpringCloudDemo/SpringCloudBook-master/api-gateway-dynamic-filter/pom.xml" />
+        <option value="$PROJECT_DIR$/../../SpringCloudDemo/SpringCloudBook-master/api-gateway-dynamic-route/pom.xml" />
+        <option value="$PROJECT_DIR$/../../SpringCloudDemo/SpringCloudBook-master/api-gateway-exception/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

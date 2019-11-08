@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: CashBus:CashBus-libRedis:20171228.023241-2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/CashBus/CashBus-libRedis/SNAPSHOT/CashBus-libRedis-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/CashBus/CashBus-libRedis/SNAPSHOT/CashBus-libRedis-20171228.023241-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/CashBus/CashBus-libRedis/SNAPSHOT/CashBus-libRedis-20171228.023241-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
